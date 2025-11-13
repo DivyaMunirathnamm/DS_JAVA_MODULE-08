@@ -13,8 +13,8 @@ To convert a collection of distinct integers stored in a HashSet into an ArrayLi
 ```
 /*
 Program to To convert a collection of distinct integers stored in a HashSet into an ArrayList and display its contents.
-Developed by: 
-RegisterNumber:  
+Developed by: DIVYA M
+RegisterNumber:  212223040043
 */
 ```
 
