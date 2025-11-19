@@ -3,11 +3,13 @@
 To implement a program that tracks the first unique (non-repeating) number in a stream of integers using a LinkedHashMap.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. Start the program.
+2. Initialize a LinkedHashMap<Integer, Integer> to store numbers and their frequency count.
+3. For each number in the stream, update its count in the map (increment if it already exists).
+4. Traverse the map entries to find the first element with a count of 1, which represents the first unique number.
+5. Display the first unique number after processing the stream.
+6. Stop the program.
+
 
 ## Program:
 ```
