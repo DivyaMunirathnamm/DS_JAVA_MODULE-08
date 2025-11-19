@@ -3,11 +3,13 @@
 To write a Java program that checks whether a given value exists in a TreeMap.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. Start the program.
+2. Create a TreeMap containing key–value pairs.
+3. Display the TreeMap elements.
+4. Use the containsValue() method to check if a specific value exists in the map.
+5. Display whether the value is found or not.
+6. Stop the program.
+
 
 ## Program:
 ```
